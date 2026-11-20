@@ -9,7 +9,7 @@
 ### 👋 About Me
 
 Hi there! I'm Aiman Darwish 
-<p>elcome to my GitHub profile!
+<p> Welcome to my GitHub profile!
 From Pahang , Malaysia <p/>
 - Studying Computer Systems Technology
 - Have some basic skills in cybersecurity and programming.
