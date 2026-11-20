@@ -11,10 +11,10 @@
 Hi there! I'm Aiman Darwish 
 <p> Welcome to my GitHub profile! <p/>
 <p> From Pahang , Malaysia <p/>
-- Studying Computer Systems Technology
-- Have some basic skills in cybersecurity and programming.
-- Currently - make some basic web
-- Next project - making roblox game
+<p> - Studying Computer Systems Technology </p>
+<p>- Have some basic skills in cybersecurity and programming.</p>
+<p>- Currently - make some basic web</p>
+<p>- Next project - making roblox game</p>
 
 <br clear="right"/>
 
