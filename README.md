@@ -32,17 +32,16 @@ Hi there! I'm Aiman Darwish
 
 ---
 
+
 <div align="center">
 
-###  Connect With Me
+### Connect With Me
 
-<p align="left">
-  <a href="https://tiktok.com" target="_blank">
-    <img src="https://shields.io" alt="TikTok" />
-  </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://shields.io" alt="Instagram" />
-  </a>
-</p>
+<a href="https://tiktok.com" target="_blank">
+  <img src="https://shields.io" alt="TikTok" />
+</a>
+<a href="https://instagram.com" target="_blank">
+  <img src="https://shields.io" alt="Instagram" />
+</a>
 
 </div>
