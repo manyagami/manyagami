@@ -13,6 +13,8 @@ Welcome to my GitHub profile!
 From Pahang , Malaysia
 - Studying Computer Systems Technology
 - Have some basic skills in cybersecurity and programming.
+- Currently - make some basic web
+- Next project - making roblox game
 
 <br clear="right"/>
 
@@ -34,7 +36,13 @@ From Pahang , Malaysia
 
 ###  Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-@mandarwishhhh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mandarwishhhh)
-[![TikTok](https://img.shields.io/badge/TikTok-@surrenderbythem-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@surrenderbythem)
+<p align="left">
+  <a href="https://tiktok.com" target="_blank">
+    <img src="https://shields.io" alt="TikTok" />
+  </a>
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://shields.io" alt="Instagram" />
+  </a>
+</p>
 
 </div>
