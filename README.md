@@ -51,7 +51,7 @@ Feel free to reach out, follow my journey, or say hi on my socials!
 ###  GitHub Stats
 
 <p>
-  <img src="https://github-stats-extended.vercel.app/api?username=manyagmi&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=manyagami&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="GitHub Stats" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=manyagami&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
 </p>
 
