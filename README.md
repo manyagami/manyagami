@@ -51,12 +51,12 @@ Feel free to reach out, follow my journey, or say hi on my socials!
 ###  GitHub Stats
 
 <p>
-  <img src="https://github-stats-extended.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=YOUR_GITHUB_manyagami&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR_GITHUB_manyagami&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
 </p>
 
 ### Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true)](https://github.com/manyagami)
 
 </div>
