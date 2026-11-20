@@ -8,15 +8,11 @@
 
 ### 👋 About Me
 
-Hi there! I'm **[Your Name]**.  
+Hi there! I'm Aiman Darwish 
 Welcome to my GitHub profile!
-
-- 💻 Passionate about technology, programming & exploring Linux.
-- 🚀 Always eager to learn new things and build creative projects.
-- 🎯 Currently focusing on improving my coding and web development skills.
-- 🎬 Interests: Anime & gaming.
-
-*(Feel free to edit the text above with your own details)*
+From Pahang , Malaysia
+- Studying Computer Systems Technology
+- Have some basic skills in cybersecurity and programming.
 
 <br clear="right"/>
 
@@ -24,13 +20,11 @@ Welcome to my GitHub profile!
 
 <img src="profilegithub3.jpg" align="left" width="220" alt="Profile 3" />
 
-### ✨ More About Me
+###  More About Me
 
-- 📌 **"Keep trying and never stop learning."**
-- 🛠️ Tools & technologies I'm exploring: HTML, Linux, and web basics.
-- 🤝 Open to connecting and collaborating on cool projects.
-
-*(You can replace this section with your own story, quotes, or hobbies)*
+- **"Obsession Beat Talents"**
+- Tools & technologies I'm exploring: HTML, Linux, Web basics and Graphic Designer
+- Love something cool like creating unique website and design
 
 <br clear="left"/>
 
@@ -38,7 +32,7 @@ Welcome to my GitHub profile!
 
 <div align="center">
 
-### 📱 Connect With Me
+###  Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-@mandarwishhhh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mandarwishhhh)
 [![TikTok](https://img.shields.io/badge/TikTok-@surrenderbythem-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@surrenderbythem)
