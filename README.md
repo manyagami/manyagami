@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bannergithub1.jpg" width="100%" alt="Banner" />
+  <img src="bannergithub1.jpg" width="80%" alt="Banner" />
 </p>
 
 ---
@@ -25,6 +25,8 @@ Hi there! I'm Aiman Darwish
 ###  More About Me
 
 <br> **"Obsession Beat Talents"**
+
+
 <br> - Tools & technologies I'm exploring: HTML, Linux, Web basics and Graphic Designer<br/>
 <br> - Love make something cool like creating unique website and design <br/>
 
