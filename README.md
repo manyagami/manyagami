@@ -26,7 +26,7 @@ Hi there! I'm Aiman Darwish
 
 - **"Obsession Beat Talents"**
 - Tools & technologies I'm exploring: HTML, Linux, Web basics and Graphic Designer
-- Love something cool like creating unique website and design
+- Love make something cool like creating unique website and design
 
 <br clear="left"/>
 
@@ -35,14 +35,28 @@ Hi there! I'm Aiman Darwish
 
 <div align="center">
 
-### Connect With Me
+### 📱 Connect With Me
 
-<a href="https://tiktok.com" target="_blank">
-  <img src="https://simpleicons.org" width="32" height="32" alt="TikTok" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com" target="_blank">
-  <img src="https://simpleicons.org" width="32" height="32" alt="Instagram" />
-</a>
+Feel free to reach out, follow my journey, or say hi on my socials!
+
+[![Instagram](https://img.shields.io/badge/Instagram-@mandarwishhhh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mandarwishhhh)  
+[![TikTok](https://img.shields.io/badge/TikTok-@surrenderbythem-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@surrenderbythem)
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+###  GitHub Stats
+
+<p>
+  <img src="https://github-stats-extended.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
+</p>
+
+### Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
