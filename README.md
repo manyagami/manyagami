@@ -24,9 +24,9 @@ Hi there! I'm Aiman Darwish
 
 ###  More About Me
 
-- **"Obsession Beat Talents"**
-- Tools & technologies I'm exploring: HTML, Linux, Web basics and Graphic Designer
-- Love make something cool like creating unique website and design
+<br> **"Obsession Beat Talents"**
+Tools & technologies I'm exploring: HTML, Linux, Web basics and Graphic Designer
+Love make something cool like creating unique website and design <br/>
 
 <br clear="left"/>
 
